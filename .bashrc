@@ -93,7 +93,7 @@ alias la='ls -A'
 alias l='ls -CF'
 alias pah='ssh keowng@pah-buildsrv01-vm.3pardata.com'
 alias pah='ssh keowng@pah-buildsrv02-vm.3pardata.com'
-alias flanders=='ssh keowng@flanders.3pardata.com'
+alias flanders='ssh keowng@flanders.3pardata.com'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
